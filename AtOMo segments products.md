@@ -1,18 +1,19 @@
 # AtOMo segments & products
-*blockchainizator internal reference: wave 1 - Nov 2025*
+*blockchainizator internal reference: wave 1 - Dec 2025*
+
+## Preliminary remark
+Bitcoin Counterparty is the protocol on top of Bitcoin that allows to create NFTs since 2014, and was used with the 2 major collections Spells of Genesis and Rare Pepe who influenced later the creation of the of the major Cryptopunks collection on Ethereum.
 
 ## Segments
 
 ### Buyer
 Current and previous buyers are
 - people enjoying blockchain, with preference for Bitcoin
-- fan of historical NFTs or of any NFTs on Bitcoin Counterparty (for the majority)
-
-Bitcoin Counterparty is the protocol on top of Bitcoin that allows to create NFTs since 2014, and was used with the 2 major collections Spells of Genesis and Rare Pepe who influenced later the creation of the of the major Cryptopunks collection on Ethereum.
+- (for the majority:) fan of historical NFTs or of any NFTs on Bitcoin Counterparty 
 
 It is highly certain that all buyers of AtOMo are fan of Bitcoin Counterparty and of the top-ten NFT collections on Bitcoin Counterparty, and for sure Spells Genesis or Rare Pepe.
 
-### Prescriber or influencer
+###  Prescriber or influencer
 People who
 - know and like Bitcoin based NFTs
 - like digital pop culture (meme, emoji, gaming, geek spirit, etc.)
@@ -22,7 +23,7 @@ People who
 ### Remark
 For both segments, and potentially new ones, the community aspect to interact online with other people is important
 - to get information, improve knowledge, and get insights (it could be as passive mode: not posting a lot, but reading and listening intensively)
-- to be part of the groups, the tribes, and having pleasure to interact, socilaise, and share content (active mode)
+- to be part of the groups, the tribes, and having pleasure to interact, socialise, and share content (active mode)
 
 ## Products
 
@@ -37,7 +38,7 @@ Summary of [wiki.orbital.market/collections/atomo](https://wiki.orbital.market/c
 ### Services
 
 Excerpts from blog post [Why creating elements of the periodic table as blockchain token?](https://blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token/)
-- 'AtOMo word speller' to see which words could be created with symbols (letters of elements)
+- 'AtOMo word speller' to see which words could be created with symbols (letters of elements); for now deactivated, but will be re-launched in 2026
 - Stickers in Telegram
 - Emoji in Slack
 - Elements' content as creative common: classification and atom values available on-line in the Json files of our API, and all images for free even for commercial use, except for NFTs.

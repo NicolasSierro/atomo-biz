@@ -1,5 +1,5 @@
 # AtOMo: Business area & positioning
-*blockchainizator internal reference: wave 2 - oct 2025*
+*blockchainizator internal reference: wave 2 - Dec 2025*
 
 ## Business area
 AtOMo, as a NFT collection started in 2018, is active in NFTs, within the group of 'historical NFT' for the time period of the 1st NFTs until 2019.
