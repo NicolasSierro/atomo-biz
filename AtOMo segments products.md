@@ -29,7 +29,7 @@ For both segments, and potentially new ones, the community aspect to interact on
 
 ### NFTs
 
-Summary of [wiki.orbital.market/collections/atomo](https://wiki.orbital.market/collections/atomo/):
+Summary of [wiki.orbital.market/collections/atomo](https://wiki.orbital.market/collections/atomo/) *(open in <a href="https://wiki.orbital.market/collections/atomo/" target="_blank">a new tab</a>)*:
 -  The core NFTs goup - Elements: 118 elements of the Periodic Table of Elements, started on 9th of June 2018. Each square element contains 3 animated images with embossed/3D items. The background gradient colours are different for each family of elements. The supply per element was calculated from the physical availability on earth and in the universe.
 - The 2nd NFTs group - Words: words composed from the elements, e.g. LATOMONOICO for 'No ICO' with 4 elements (No, I, C, & O), from 10th of June 2018 until now 2025. Some of them in partnership with other people or organisation active in NFTs.
 - other NFTs as cross-collections: part of AtOMo and part of another collection on Bitcoin Counterparty too, e.g. CORNATOMO in Bitcorns Crops, 5 in Kaleidoscope (like KFUCK for 'FUCK'), STEDNILSON in Mafia Wars, LATOMOFAKE in Fake Commons, PEPEATOMO in Dank Directory, SCANATOMO & BTCPAPERSCAN in Scannable NFTs, DUCHURBINO & DUKEURBINO again in Kaleidoscope
@@ -37,7 +37,7 @@ Summary of [wiki.orbital.market/collections/atomo](https://wiki.orbital.market/c
 
 ### Services
 
-Excerpts from blog post [Why creating elements of the periodic table as blockchain token?](https://blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token/)
+Excerpts from blog post [Why creating elements of the periodic table as blockchain token?](https://blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token/) *(open in <a href="https://blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token/" target="_blank">a new tab</a>)*
 - 'AtOMo word speller' to see which words could be created with symbols (letters of elements); for now deactivated, but will be re-launched in 2026
 - Stickers in Telegram
 - Emoji in Slack
