@@ -1,5 +1,5 @@
 # AtOMo-biz readme
-<a href="https://blockchainizator.com" target="_blank">Blockchainizator</a> is active for NFTs since 2016 and its AtOMo NFT collection started in 2018.
+<a href="https://blockchainizator.com" target="_blank">Blockchainizator</a> is active for NFTs since 2016 and its AtOMo NFT collection is one of the top 100 earliest NFT collections.
 
 My initiative 'GenAI for AtOMo product management by Blockchainizator' (shorter: 'AI for AtOMo product management') is
 - my use of several LLMs to support core and standard product management activities
