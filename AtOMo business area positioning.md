@@ -27,7 +27,7 @@ All 3 together (AtOMo, Blockchainizator, & Nicolas Sierro) have online presences
 
 Segmentation: people who could have interest for AtOMo
 - today: people knowing and liking historical NFTs, geek & tech savvy
-- tomorrow: people ready to collect NFTs and liking something different and authentical, and people liking science and atracted by the periodic table of elements
+- tomorrow: people ready to collect NFTs and liking something different & authentical, and people liking science & atracted by the periodic table of elements
 
 Links with more information:
 - blog post from 2018 'Why creating elements of the periodic table as blockchain token?' [blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token](https://blockchainizator.com/why-creating-elements-of-the-periodic-table-as-blockchain-token/)
